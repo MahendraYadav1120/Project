@@ -1,0 +1,10 @@
+[{"Question":"Number of primitive data types in Java are?","A":"6","B":"7","C":"8","D":"9","ANS":"8"},
+{"Question":"What is the size of float and double in java?","A":"32 and 64","B":"32 and 32","C":"64 and 64","D":"32 and 128","ANS":"32 and 64"},
+{"Question":"Automatic type conversion is possible in which of the possible cases?","A":"Long to long","B":"Int to Int","C":"long to int","D":"Int to long","ANS":"Int to long"},
+{"Question":"Select the valid statement.","A":"char[] ch = new char[5]","B":"char ch = new char[5]","C":"char[] ch = new char[]","D":"char[] ch[]= new char[5]","ANS":"char[] ch = new char[5]"},
+{"Question":"When an array is passed to a method, what does the method receive?","A":"A Copy of Array","B":"Lenght of array","C":"The reference of the array","D":"copy first element","ANS":"The reference of the array"},
+{"Question":"Arrays in java are-","A":"Objects","B":"Object References","C":"Primitive data types","D":"None","ANS":"Object References"},
+{"Question":"When is the object created with new keyword?","A":"At run Time","B":"At Compile Time","C":"Depends on the code","D":"None","ANS":"At run Time"},
+{"Question":"Identify the keyword among the following that makes a variable belong to a class,rather than being defined for each instance of the class.","A":"Final","B":"Static","C":"Voletile","D":"None","ANS":"Static"},
+{"Question":"In which of the following is toString() method defined?","A":"java.lang.Scanner","B":"java.lang.Util","C":"java.lang.String","D":"java.lang.Object","ANS":"java.lang.Object"},
+{"Question":"compareTo() returns","A":"True","B":"False","C":"An Int Value","D":"none","ANS":"An Int Value"}]
